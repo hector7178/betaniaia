@@ -1,0 +1,14 @@
+guacate
+aji
+ajo
+berenjena
+carne
+cebolla
+huevo
+lechuga
+papas
+pimenton
+pollo
+tomate
+zanahoria
+           
